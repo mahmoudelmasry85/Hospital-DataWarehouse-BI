@@ -1,1 +1,7 @@
+PatientID,PatientName,Gender,DateOfBirth,City
+1,Ahmed Ali,M,1985-04-12,Cairo
+2,Sara Mohamed,F,1992-08-30,Giza
+3,Omar Hassan,M,1978-01-19,Alexandria
+4,Mona Adel,F,1989-11-05,Cairo
+5,Khaled Youssef,M,1995-06-22,Giza
 
